@@ -1,2 +1,2 @@
 # git-demo
-learning version control
+learning version control for project
